@@ -1,5 +1,5 @@
 <?php 
-namespace Mouf\Utils;
+namespace Mouf\Utils\Common;
 
 /**
  * This interface is implemented by any object that can represent an URL.

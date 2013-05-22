@@ -1,5 +1,5 @@
 <?php 
-namespace Mouf\Utils;
+namespace Mouf\Utils\Common;
 
 /**
  * This class represents a single URL.
